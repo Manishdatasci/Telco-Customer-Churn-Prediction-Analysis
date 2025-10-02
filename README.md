@@ -1,6 +1,3 @@
-# Telco-Customer-Churn-Prediction-Analysis
-Predictive analysis of Telco customer churn using Python and Plotly Express. Identifies key risk factors (contracts, service bundles, high charges) and presents actionable business recommendations for retention in a dedicated PPT.
-
 # Telco Customer Churn Prediction and Strategic Analysis
 
 ## 🎯 Project Goal
@@ -20,16 +17,7 @@ The analysis, performed using Python and **Plotly Express** (for interactive vis
 | File | Description |
 | :--- | :--- |
 | `Churn_Prediction.ipynb` | The complete analysis notebook. Contains the full workflow: data cleaning, EDA, visualization (using Plotly Express), feature engineering, and interim findings. |
-| `Telco-Customer-Churn.pptx` | The **Executive Summary** presentation. This deck translates the technical findings from the notebook into clear, concise, and actionable recommendations for business stakeholders. |
-| `requirements.txt` | (Recommended) Lists all necessary Python libraries for replicating the environment. |
-
-## 🚀 How to Run the Analysis
-
-To run this project locally, you will need a Python environment with Jupyter Notebook installed.
-
-### 1. Set up the Environment
-
-You can install all the necessary libraries using the `requirements.txt` file (if created):
+| `Telco-Customer-Churn.pptx` | The **Executive Summary** presentation. This deck translates the technical findings from the notebook into clear, concise, and actionable recommendations for business stakeholders. 
 
 ```bash
 pip install -r requirements.txt
