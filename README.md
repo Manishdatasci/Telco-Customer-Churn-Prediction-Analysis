@@ -19,4 +19,4 @@ The analysis, performed using Python and **Plotly Express** (for interactive vis
 | `Churn_Prediction.ipynb` | The complete analysis notebook. Contains the full workflow: data cleaning, EDA, visualization (using Plotly Express), feature engineering, and interim findings. |
 | `Telco-Customer-Churn.pptx` | The **Executive Summary** presentation. This deck translates the technical findings from the notebook into clear, concise, and actionable recommendations for business stakeholders. 
 
-```bash
+
