@@ -20,4 +20,3 @@ The analysis, performed using Python and **Plotly Express** (for interactive vis
 | `Telco-Customer-Churn.pptx` | The **Executive Summary** presentation. This deck translates the technical findings from the notebook into clear, concise, and actionable recommendations for business stakeholders. 
 
 ```bash
-pip install -r requirements.txt
