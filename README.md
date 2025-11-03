@@ -18,7 +18,8 @@ The goal is to understand *why customers leave* and create *data-driven strategi
 - Perform detailed **Exploratory Data Analysis (EDA)** to identify key churn drivers.  
 - Build and evaluate **Machine Learning models** to predict at-risk customers.  
 - Create an **interactive Power BI dashboard** for business insights.  
-- Provide **strategic recommendations** to reduce churn and improve satisfaction.
+- Provide **strategic recommendations** to reduce churn and improve satisfaction.  
+- Present findings through a **professional PowerPoint presentation** for stakeholders.
 
 ---
 
@@ -69,21 +70,22 @@ An interactive dashboard that allows:
 | File | Description |
 | :-- | :-- |
 | `Churn_Prediction_Using_Machine_Learning.ipynb` | Complete EDA, feature engineering, and model training notebook. |
-| `Churn_Prediction (4).ipynb` | Advanced EDA and interactive visualizations using Plotly. |
+| `Churn_Prediction.ipynb` | Advanced EDA and interactive visualizations using Plotly. |
 | `churn-prediction-dashboard.pbix` | Power BI dashboard with churn insights and retention strategies. |
-| `Telco-Customer-Churn.pptx` | Executive summary presentation for stakeholders. |
+| `Telco-Customer-Churn.pptx` | Executive summary presentation translating technical findings into clear business insights. |
 
 ---
 
 ## 🏆 Project Impact
-✅ Discovered top churn drivers with statistical and visual clarity.  
-✅ Built ML model achieving **82% prediction accuracy**.  
-✅ Delivered an **interactive dashboard** for real-time business insights.  
-✅ Converted technical findings into **actionable business recommendations**.
+- Discovered top churn drivers with statistical and visual clarity.  
+- Built ML model achieving **82% prediction accuracy**.  
+- Delivered an **interactive dashboard** for real-time business insights.  
+- Created a **PowerPoint presentation** to communicate findings effectively to non-technical stakeholders.  
+- Converted technical results into **actionable business recommendations**.
 
 ---
 
 ## 👨‍💻 Developed by
-**Manish Kumar Rajak**  
+**Manish Kumar**  
 📧 [manishkumar764505@gmail.com](mailto:manishkumar764505@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/manish-kumar-487121268) | [GitHub](https://github.com/Manishdatasci)
