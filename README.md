@@ -12,6 +12,8 @@
 This project focuses on predicting and reducing **customer churn** for a telecom company using **Python**, **Machine Learning**, and **Power BI**.  
 The goal is to understand *why customers leave* and create *data-driven strategies* to improve customer retention and loyalty.
 
+**Personally handled the full pipeline: data cleaning, EDA, feature engineering, model comparison, Power BI dashboard creation, and final PPT presentation for stakeholders.**
+
 ---
 
 ## 🧠 Objectives
